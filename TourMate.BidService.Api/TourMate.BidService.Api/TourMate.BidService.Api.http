@@ -1,0 +1,6 @@
+@TourMate.BidService.Api_HostAddress = http://localhost:5063
+
+GET {{TourMate.BidService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
