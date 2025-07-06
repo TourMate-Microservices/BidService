@@ -17,4 +17,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TourMate.BidService.Services\TourMate.BidService.Services.csproj" />
+  </ItemGroup>
+
 </Project>
